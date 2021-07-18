@@ -1,0 +1,52 @@
+:root {
+    --primary-color: #ddd;
+    --primary-background: black;
+    --secondary-color: #383838;
+    --secondary-background: #bbb;
+}
+
+body {
+    color: var(--primary-color);
+    background: var(--primary-background);
+}
+
+textarea,
+input[type="text"],
+.comment {
+    color: inherit !important;
+    background: none !important;
+}
+
+#sidebar,
+.article .uhead a,
+.post_content h3,
+.post_content h4,
+.post_content h5,
+.blogs {
+    color: inherit;
+}
+
+#topbar,
+#container,
+#pageinner,
+.user.week_top,
+.user.week_top .userposition,
+.user.week_top a,
+.user .weekrating {
+    background: none;
+}
+
+#tagArticle .post_content_expand,
+.article .post_content_expand,
+.article .ufoot span a.response,
+.small_comments_button,
+.pagination_main .pagination_toggler,
+.pagination_expanded a,
+.pagination_expanded span {
+    color: var(--secondary-color);
+    background: var(--secondary-background);
+}
+
+.comments {
+    color: var(--secondary-color);
+}
