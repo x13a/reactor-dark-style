@@ -1,5 +1,5 @@
-# reactor-dark-theme
+# reactor-neon-theme
 
-JoyReactor dark mode theme.
+JoyReactor neon theme.
 
 Use [stylus](https://github.com/openstyles/stylus) to change it.
