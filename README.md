@@ -2,4 +2,4 @@
 
 JoyReactor neon theme.
 
-Use [stylus](https://github.com/openstyles/stylus) to change it.
+Use [stylus](https://github.com/openstyles/stylus) to apply it.
