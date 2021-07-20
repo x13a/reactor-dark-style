@@ -48,7 +48,8 @@
         background: var(--secondary-background);
     }
     
-    .comments {
+    .comments,
+    .sidebarContent p.login_link a {
         color: var(--secondary-color);
     }
     
