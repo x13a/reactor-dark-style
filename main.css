@@ -50,3 +50,8 @@ input[type="text"],
 .comments {
     color: var(--secondary-color);
 }
+
+.article .uhead .uhead_share span a.share_vk,
+.article .uhead .uhead_share span a.share_fb {
+    display: none;
+}
