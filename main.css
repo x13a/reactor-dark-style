@@ -1,4 +1,9 @@
-@-moz-document domain("joyreactor.cc"), domain("reactor.cc") {
+@-moz-document 
+    domain("joyreactor.cc"),
+    domain("reactor.cc"),
+    domain("jr-proxy.com"),
+    domain("jrproxy.com") {
+
     :root {
         --primary-color: #ddd;
         --primary-background: black;
