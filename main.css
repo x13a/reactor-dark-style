@@ -18,6 +18,7 @@
     
     textarea,
     input[type="text"],
+    input[type="password"],
     .comment {
         color: inherit !important;
         background: none !important;
