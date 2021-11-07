@@ -1,4 +1,4 @@
-# reactor-neon-theme
+# reactor-neon
 
 JoyReactor neon theme.
 
